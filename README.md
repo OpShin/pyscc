@@ -1,10 +1,13 @@
 **Py**thon **S**mart **C**ontracts for **C**ardano
 ==================================================
 
-> This project is a PoC and not ready for use. For a project that is already workable, check out [eopsin](https://github.com/ImperatorLang/eopsin)
 
 This is a prototypical implementation of smart contracts
 for Cardano which are written in a subset of valid Python.
+
+> **Important note** This project is a PoC and not ready for use. For a project that is already workable, check out [OpShin](https://github.com/OpShin/opshin)
+
+
 The general philosphy of this project is to write a compiler that 
 ensure the following:
 
